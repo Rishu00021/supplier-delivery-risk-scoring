@@ -1,0 +1,31 @@
+vendor_id,vendor_name,city,material_category,base_on_time_rate,base_avg_delay_days,contract_start_date
+V001,Apex Polymers Pvt Ltd,Noida,Raw Material,0.875,2.91,2023-12-27
+V002,Shakti Steel Traders,Ghaziabad,Mechanical Parts,0.843,1.02,2023-02-23
+V003,Nexa Packaging Solutions,Faridabad,Electrical Components,0.96,4.69,2023-06-05
+V004,Vikram Electricals,Noida,Packaging,0.604,2.98,2023-04-17
+V005,Sagar Chemicals Ltd,Ahmedabad,Electronics,0.706,5.6,2023-04-20
+V006,Precision Fasteners India,Delhi,Raw Material,0.896,2.94,2023-07-28
+V007,Orbit Electronics,Noida,Mechanical Parts,0.645,3.55,2023-02-02
+V008,Kaveri Consumables,Faridabad,Raw Material,0.898,3.97,2024-09-18
+V009,Meridian Raw Materials,Bengaluru,Mechanical Parts,0.868,2.45,2024-09-15
+V010,TrueLine Mechanicals,Bengaluru,Electronics,0.925,4.78,2022-12-05
+V011,BrightPack Industries,Faridabad,Consumables,0.632,3.07,2023-11-10
+V012,Zenith Copper Works,Ahmedabad,Chemicals,0.615,4.26,2024-10-02
+V013,Anand Alloys Pvt Ltd,Delhi,Electrical Components,0.863,5.82,2024-01-12
+V014,Prime Plastics Co,Pune,Fasteners,0.706,3.08,2024-03-13
+V015,Surya Cables Ltd,Ghaziabad,Electrical Components,0.63,1.21,2023-06-27
+V016,Nova Bearings India,Faridabad,Fasteners,0.645,4.18,2023-11-26
+V017,Kiran Industrial Supply,Noida,Packaging,0.734,5.08,2023-08-07
+V018,Delta Adhesives Ltd,Pune,Packaging,0.681,5.08,2023-06-17
+V019,Everest Rubber Products,Mumbai,Fasteners,0.888,2.63,2023-01-26
+V020,Pioneer Tools & Hardware,Ahmedabad,Chemicals,0.837,1.27,2024-04-09
+V021,Lotus Paper Mills,Delhi,Consumables,0.634,0.54,2023-04-09
+V022,Galaxy Semiconductors,Bengaluru,Packaging,0.829,4.38,2023-04-16
+V023,Ridge Valve Systems,Pune,Packaging,0.878,3.02,2023-11-04
+V024,Harmony Textiles Pvt Ltd,Bengaluru,Chemicals,0.609,1.13,2023-09-20
+V025,Swift Logistics Packaging,Ahmedabad,Fasteners,0.831,3.09,2023-02-26
+V026,Crest Aluminium Ltd,Ahmedabad,Mechanical Parts,0.871,3.99,2023-09-23
+V027,Vertex Motors Pvt Ltd,Noida,Raw Material,0.783,3.58,2023-04-10
+V028,BlueStar Lubricants,Faridabad,Chemicals,0.563,2.9,2024-03-29
+V029,IronGate Forgings,Noida,Mechanical Parts,0.64,2.75,2022-11-19
+V030,EcoFoam Insulation Ltd,Noida,Electronics,0.648,0.82,2023-02-27

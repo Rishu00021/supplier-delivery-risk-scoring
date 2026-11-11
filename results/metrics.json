@@ -1,0 +1,18 @@
+{
+  "model": "RandomForestClassifier (n_estimators=200, class_weight=balanced_subsample)",
+  "target": "is_late (delay_days > 3)",
+  "n_rows": 2000,
+  "n_train": 1600,
+  "n_test": 400,
+  "late_rate_overall_pct": 25.85,
+  "precision": 0.5172,
+  "recall": 0.2913,
+  "f1": 0.3727,
+  "roc_auc": 0.774,
+  "confusion_matrix": {
+    "tn": 269,
+    "fp": 28,
+    "fn": 73,
+    "tp": 30
+  }
+}
